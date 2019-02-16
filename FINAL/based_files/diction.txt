@@ -1,0 +1,7 @@
+sil
+NOISE B
+LEFT c0 wa ee c0 vv nn
+RIGHT uu we ee c0 vv nn
+EMERGENCY p ii s0 aa ng
+GO c0 uu hh ee ng
+STOP c0 vv ng c0 ii

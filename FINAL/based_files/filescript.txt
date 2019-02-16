@@ -1,0 +1,1 @@
+/home/pi/workspace1/file1.wav /home/pi/workspace1/file1.mfcc
