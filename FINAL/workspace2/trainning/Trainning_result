@@ -1,0 +1,8 @@
+====================== HTK Results Analysis =======================
+  Date: Sun Mar 11 16:15:27 2018
+  Ref : /home/pi/trainning/created_prac/words.mlf
+  Rec : /home/pi/trainning/created_prac/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=83, N=83]
+WORD: %Corr=73.49, Acc=-126.51 [H=61, D=0, S=22, I=166, N=83]
+===================================================================

@@ -1,0 +1,16 @@
+CL /home/pi/trainning/created_prac/triphones
+TI T_aa {(*-aa+*,aa+*,*-aa).transP}
+TI T_we {(*-we+*,we+*,*-we).transP}
+TI T_B {(*-B+*,B+*,*-B).transP}
+TI T_nn {(*-nn+*,nn+*,*-nn).transP}
+TI T_wa {(*-wa+*,wa+*,*-wa).transP}
+TI T_p {(*-p+*,p+*,*-p).transP}
+TI T_ee {(*-ee+*,ee+*,*-ee).transP}
+TI T_s0 {(*-s0+*,s0+*,*-s0).transP}
+TI T_ng {(*-ng+*,ng+*,*-ng).transP}
+TI T_ii {(*-ii+*,ii+*,*-ii).transP}
+TI T_uu {(*-uu+*,uu+*,*-uu).transP}
+TI T_hh {(*-hh+*,hh+*,*-hh).transP}
+TI T_vv {(*-vv+*,vv+*,*-vv).transP}
+TI T_c0 {(*-c0+*,c0+*,*-c0).transP}
+TI T_sil {(*-sil+*,sil+*,*-sil).transP}
